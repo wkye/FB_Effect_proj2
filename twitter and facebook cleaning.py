@@ -5,6 +5,10 @@ Created on Tue Feb  6 15:47:30 2018
 
 @author: williamkye
 """
+########## LINK TO BLOG POST##########
+https://www.williamkye.com/work/2018/4/2/the-facebook-effect
+
+
 ######################################
 ######## Trends Project ##############
 ######################################
